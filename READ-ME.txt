@@ -7,3 +7,5 @@
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
+
+  =>  Netfily Link     : https://darling-dieffenbachia-0ea34d.netlify.app/
